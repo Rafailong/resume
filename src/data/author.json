@@ -1,44 +1,42 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Rafa Avila",
+    "occupation": "Software Engineer (Back-End Developer)",
+    "location": "Morelia, MX",
+    "avatar": "avatar.png",
+    "pronouns": "he/him",
+    "email": "ravila@duck.com",
+    "website": "https://rafailong.github.io/blog/",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Scala",
+        "Typelevel ecosystem",
+        "ZIO",
+        "Lightbend akka toolkit",
+        "Git",
+        "Kafka",
+        "Docker",
+        "MySQL",
+        "AWS"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Spanish",
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
+            "name": "English",
+            "level": "professional"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@Rafailong",
+            "url": "https://github.com/Rafailong"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "RafaAvila",
+            "url": "https://www.linkedin.com/in/rafa-a-2b82a835/"
         }
     ]
 }
