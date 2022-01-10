@@ -80,7 +80,7 @@ module.exports = function (config) {
     return {
         dir: {
             input: 'src',
-            output: 'dist',
+            output: 'docs',
             includes: 'includes',
             layouts: 'layouts',
             data: 'data'
