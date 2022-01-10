@@ -1,9 +1,9 @@
 {
-    "url": "https://demo-resume.netlify.app",
+    "url": "https://rafailong.github.io/resume",
     "lang": "en",
     "locale": "en_us",
     "colors": {
-        "primary": "#005b96",
+        "primary": "#5CC05C",
         "secondary": "#fc6767"
     }
 }
